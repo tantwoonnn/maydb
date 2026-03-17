@@ -25,7 +25,7 @@ namespace dbbage
 
         private void btnList_Click(object sender, EventArgs e)
         {
-            
+            new frmStudentList().Show();
             this.Hide();
         }
     }

@@ -596,23 +596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CL2~PC08\\.nuget\\packages\\": {},
+    "C:\\Users\\CL3-PC10\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CL2~PC08\\OneDrive\\Documents\\THIRDY DIVINA\\dbbage\\dbbage\\dbbage.csproj",
+      "projectUniqueName": "C:\\Users\\CL3-PC10\\Downloads\\maydb-main\\maydb-main\\eras\\dbbage\\dbbage\\dbbage.csproj",
       "projectName": "dbbage",
-      "projectPath": "C:\\Users\\CL2~PC08\\OneDrive\\Documents\\THIRDY DIVINA\\dbbage\\dbbage\\dbbage.csproj",
-      "packagesPath": "C:\\Users\\CL2~PC08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CL2~PC08\\OneDrive\\Documents\\THIRDY DIVINA\\dbbage\\dbbage\\obj\\",
+      "projectPath": "C:\\Users\\CL3-PC10\\Downloads\\maydb-main\\maydb-main\\eras\\dbbage\\dbbage\\dbbage.csproj",
+      "packagesPath": "C:\\Users\\CL3-PC10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CL3-PC10\\Downloads\\maydb-main\\maydb-main\\eras\\dbbage\\dbbage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CL2~PC08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CL3-PC10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -670,7 +670,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
